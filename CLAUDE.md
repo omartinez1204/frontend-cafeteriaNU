@@ -4,6 +4,7 @@
 **Cliente:** NovaUniversitas — Oaxaca de Juárez, Oaxaca  
 **Versión:** 2.0  
 **Última actualización:** Julio 2025
+**NOTA :** Es para una cafetería universitaria, el app completo fue diseñado, desarrollado en base a las características específicas del cliente NovaUniversitas 
 
 ---
 
