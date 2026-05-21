@@ -467,8 +467,8 @@ JWT_SECRET=your-strong-secret
 JWT_REFRESH_SECRET=your-refresh-secret
 FIREBASE_PROJECT_ID=cafeterianova-prod
 FIREBASE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\n..."
-FIREBASE_CLIENT_EMAIL=firebase-adminsdk@cafeterianova.iam.gserviceaccount.com
-FRONTEND_URL=https://cafeterianova.app  # Para CORS
+FIREBASE_CLIENT_EMAIL=firesdk@cafeno.com
+FRONTEND_URL=https://cafeno.app  # Para CORS
 ```
 
 ### Variables de Entorno (Flutter)
@@ -597,7 +597,7 @@ Antes de comenzar cualquier feature, verifica:
 
 ## 📞 Soporte y Contacto
 
-**Desarrollador principal:** [Tu nombre]  
+**Desarrollador principal:** Omar Martínez Osorio  
 **Cliente:** NovaUniversitas — Oaxaca de Juárez, Oaxaca  
 **Documentación completa:** Ver `SRS_CafeteriaNova_NovaUniversitas_v2.0.docx`
 
