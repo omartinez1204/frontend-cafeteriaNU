@@ -1,0 +1,15 @@
+Analyzing cafeterianova_app...                                  
+
+   info - The constant name 'CONNECT_TIMEOUT_MS' isn't a lowerCamelCase identifier - lib\core\config\env_config.dart:49:20 - constant_identifier_names
+   info - The constant name 'RECEIVE_TIMEOUT_MS' isn't a lowerCamelCase identifier - lib\core\config\env_config.dart:50:20 - constant_identifier_names
+   info - Don't invoke 'print' in production code - lib\core\network\dio_client.dart:36:26 - avoid_print
+   info - The prefix 'IO' isn't a lower_case_with_underscores identifier - lib\core\services\websocket_service.dart:2:60 - library_prefixes
+   info - Don't invoke 'print' in production code - lib\core\services\websocket_service.dart:42:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\core\services\websocket_service.dart:48:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\core\services\websocket_service.dart:52:7 - avoid_print
+warning - The value of the local variable 'theme' isn't used - lib\features\admin\presentation\screens\admin_screen.dart:432:11 - unused_local_variable
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\admin\presentation\screens\admin_screen.dart:649:17 - deprecated_member_use
+warning - The operand can't be 'null', so the condition is always 'true' - lib\features\orders\presentation\screens\cart_screen.dart:71:59 - unnecessary_null_comparison
+warning - The '!' will have no effect because the receiver can't be null - lib\features\orders\presentation\screens\cart_screen.dart:71:87 - unnecessary_non_null_assertion
+warning - The '!' will have no effect because the receiver can't be null - lib\features\orders\presentation\screens\cart_screen.dart:73:58 - unnecessary_non_null_assertion
+
